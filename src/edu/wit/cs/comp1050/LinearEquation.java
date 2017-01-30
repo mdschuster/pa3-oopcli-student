@@ -88,7 +88,7 @@ public class LinearEquation {
 	}
 	
 	/**
-	 * Returns true if the paremterized
+	 * Returns true if the parameterized
 	 * equation is solvable (i.e. denominator
 	 * ad-bc is not 0)
 	 * 
