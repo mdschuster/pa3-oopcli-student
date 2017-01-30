@@ -20,7 +20,7 @@ public class PA3a {
 	
 	/**
 	 * Finds an element in a non-empty
-	 * array thas has minimal length.
+	 * array that has minimal length.
 	 * If first is true, the first such;
 	 * otherwise the last.
 	 * 
@@ -64,7 +64,7 @@ public class PA3a {
 	
 	/**
 	 * Finds an element in a non-empty
-	 * array thas has maximal length.
+	 * array that has maximal length.
 	 * If first is true, the first such;
 	 * otherwise the last.
 	 * 
