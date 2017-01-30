@@ -34,7 +34,7 @@ public class PA3b {
 	 * an instance of the linear equation,
 	 * and reports the outcome
 	 * 
-	 * @param args command-line arguments, interpretted as equation parameters
+	 * @param args command-line arguments, interpreted as equation parameters
 	 */
 	public static void main(String[] args) {
 		// replace with your code
