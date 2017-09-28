@@ -26,7 +26,7 @@ public class PA3a {
 	 * 
 	 * @param a input array
 	 * @param first if true, return the first minimal-length element; otherwise the last
-	 * @return element in a that has maximal length
+	 * @return element in a that has minimal length
 	 */
 	private static String findShortest(String[] a, boolean first) {
 		return null; // replace with your code
