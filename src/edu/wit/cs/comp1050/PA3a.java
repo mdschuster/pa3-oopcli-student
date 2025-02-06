@@ -265,7 +265,7 @@ public class PA3a {
 		
 		if (!validArgs(args)) {
 			System.out.printf("%s%n", ERR_USAGE);
-			System.exit(1);
+			return;
 		}
 		
 		//
